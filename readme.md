@@ -1,8 +1,3 @@
-# meal-app-vanilla-JavaScript
-
-1. git repository link : https://github.com/satyam-software-developer/meal-app-vanilla-JavaScript.git
-
-2. Hosted link : 
 
 # Meal Web App Using MealDB API
 
@@ -28,7 +23,7 @@ This is a web application that allows users to search for and explore various me
 1. Clone the repository:
 
    ```shell
-   git clone  https://github.com/satyam-software-developer/meal-app-vanilla-JavaScript.git
+   git clone : https://github.com/satyam-software-developer/meal-app-vanilla-JavaScript.git
 
 2. Open the index.html file in a web browser.
 
@@ -43,3 +38,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 This project is licensed under the MIT License.
 
     Feel free to modify the content based on your project's specifics and add any additional sections or information as needed.
+
